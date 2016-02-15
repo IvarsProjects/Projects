@@ -1,0 +1,9 @@
+C:\Users\Ivars\projects\TutorialOpenTK1\TutorialOpenTK1\bin\Debug\TutorialOpenTK1.exe.config
+C:\Users\Ivars\projects\TutorialOpenTK1\TutorialOpenTK1\bin\Debug\TutorialOpenTK1.exe
+C:\Users\Ivars\projects\TutorialOpenTK1\TutorialOpenTK1\bin\Debug\TutorialOpenTK1.pdb
+C:\Users\Ivars\projects\TutorialOpenTK1\TutorialOpenTK1\bin\Debug\OpenTK.dll
+C:\Users\Ivars\projects\TutorialOpenTK1\TutorialOpenTK1\bin\Debug\OpenTK.pdb
+C:\Users\Ivars\projects\TutorialOpenTK1\TutorialOpenTK1\bin\Debug\OpenTK.xml
+C:\Users\Ivars\projects\TutorialOpenTK1\TutorialOpenTK1\obj\Debug\TutorialOpenTK1.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\TutorialOpenTK1\TutorialOpenTK1\obj\Debug\TutorialOpenTK1.exe
+C:\Users\Ivars\projects\TutorialOpenTK1\TutorialOpenTK1\obj\Debug\TutorialOpenTK1.pdb

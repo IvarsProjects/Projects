@@ -1,0 +1,10 @@
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\bin\Debug\InternalModifiers.exe.config
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\bin\Debug\InternalModifiers.exe
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\bin\Debug\InternalModifiers.pdb
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\obj\Debug\InternalModifiers.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\obj\Debug\InternalModifiers.exe
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\obj\Debug\InternalModifiers.pdb
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\bin\Debug\AssamblyTwo.dll
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\bin\Debug\AssemblyOne.dll
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\bin\Debug\AssamblyTwo.pdb
+C:\Users\Ivars\projects\InternalModifiers\InternalModifiers\bin\Debug\AssemblyOne.pdb

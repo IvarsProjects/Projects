@@ -1,0 +1,7 @@
+C:\Users\Ivars\Documents\Projects\TypesAndMembers\TypesAndMembers\bin\Debug\TypesAndMembers.exe.config
+C:\Users\Ivars\projects\TypesAndMembers\TypesAndMembers\bin\Debug\TypesAndMembers.exe.config
+C:\Users\Ivars\projects\TypesAndMembers\TypesAndMembers\bin\Debug\TypesAndMembers.exe
+C:\Users\Ivars\projects\TypesAndMembers\TypesAndMembers\bin\Debug\TypesAndMembers.pdb
+C:\Users\Ivars\projects\TypesAndMembers\TypesAndMembers\obj\Debug\TypesAndMembers.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\TypesAndMembers\TypesAndMembers\obj\Debug\TypesAndMembers.exe
+C:\Users\Ivars\projects\TypesAndMembers\TypesAndMembers\obj\Debug\TypesAndMembers.pdb

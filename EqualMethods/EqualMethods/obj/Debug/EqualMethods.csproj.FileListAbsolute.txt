@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\EqualMethods\EqualMethods\bin\Debug\EqualMethods.exe.config
+C:\Users\Ivars\projects\EqualMethods\EqualMethods\bin\Debug\EqualMethods.exe
+C:\Users\Ivars\projects\EqualMethods\EqualMethods\bin\Debug\EqualMethods.pdb
+C:\Users\Ivars\projects\EqualMethods\EqualMethods\obj\Debug\EqualMethods.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\EqualMethods\EqualMethods\obj\Debug\EqualMethods.exe
+C:\Users\Ivars\projects\EqualMethods\EqualMethods\obj\Debug\EqualMethods.pdb

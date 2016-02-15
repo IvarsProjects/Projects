@@ -1,0 +1,5 @@
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\AssemblyOne\bin\Debug\AssemblyOne.dll
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\AssemblyOne\bin\Debug\AssemblyOne.pdb
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\AssemblyOne\obj\Debug\AssemblyOne.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\AssemblyOne\obj\Debug\AssemblyOne.dll
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\AssemblyOne\obj\Debug\AssemblyOne.pdb

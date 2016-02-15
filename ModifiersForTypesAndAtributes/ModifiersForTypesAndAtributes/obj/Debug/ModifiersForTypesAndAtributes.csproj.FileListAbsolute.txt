@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\ModifiersForTypesAndAtributes\bin\Debug\ModifiersForTypesAndAtributes.exe.config
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\ModifiersForTypesAndAtributes\bin\Debug\ModifiersForTypesAndAtributes.exe
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\ModifiersForTypesAndAtributes\bin\Debug\ModifiersForTypesAndAtributes.pdb
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\ModifiersForTypesAndAtributes\obj\Debug\ModifiersForTypesAndAtributes.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\ModifiersForTypesAndAtributes\obj\Debug\ModifiersForTypesAndAtributes.exe
+C:\Users\Ivars\projects\ModifiersForTypesAndAtributes\ModifiersForTypesAndAtributes\obj\Debug\ModifiersForTypesAndAtributes.pdb

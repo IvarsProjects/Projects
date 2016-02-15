@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\PartialClases\PartialClases\bin\Debug\PartialClases.exe.config
+C:\Users\Ivars\projects\PartialClases\PartialClases\obj\Debug\PartialClases.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\PartialClases\PartialClases\bin\Debug\PartialClases.exe
+C:\Users\Ivars\projects\PartialClases\PartialClases\bin\Debug\PartialClases.pdb
+C:\Users\Ivars\projects\PartialClases\PartialClases\obj\Debug\PartialClases.exe
+C:\Users\Ivars\projects\PartialClases\PartialClases\obj\Debug\PartialClases.pdb

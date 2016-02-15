@@ -1,0 +1,6 @@
+C:\Users\Ivars\Desktop\DelegateSorting\DelegateSorting\bin\Debug\DelegateSorting.exe.config
+C:\Users\Ivars\Desktop\DelegateSorting\DelegateSorting\bin\Debug\DelegateSorting.exe
+C:\Users\Ivars\Desktop\DelegateSorting\DelegateSorting\bin\Debug\DelegateSorting.pdb
+C:\Users\Ivars\Desktop\DelegateSorting\DelegateSorting\obj\Debug\DelegateSorting.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\Desktop\DelegateSorting\DelegateSorting\obj\Debug\DelegateSorting.exe
+C:\Users\Ivars\Desktop\DelegateSorting\DelegateSorting\obj\Debug\DelegateSorting.pdb

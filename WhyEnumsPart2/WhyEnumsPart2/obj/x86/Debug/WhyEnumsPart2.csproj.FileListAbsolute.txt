@@ -1,0 +1,5 @@
+C:\Users\Ivars\Documents\Projects\WhyEnumsPart2\WhyEnumsPart2\bin\Debug\WhyEnumsPart2.exe
+C:\Users\Ivars\Documents\Projects\WhyEnumsPart2\WhyEnumsPart2\bin\Debug\WhyEnumsPart2.pdb
+C:\Users\Ivars\Documents\Projects\WhyEnumsPart2\WhyEnumsPart2\obj\x86\Debug\WhyEnumsPart2.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\Documents\Projects\WhyEnumsPart2\WhyEnumsPart2\obj\x86\Debug\WhyEnumsPart2.exe
+C:\Users\Ivars\Documents\Projects\WhyEnumsPart2\WhyEnumsPart2\obj\x86\Debug\WhyEnumsPart2.pdb

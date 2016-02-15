@@ -1,0 +1,9 @@
+C:\Users\Ivars\projects\OpenTK\OpenTK\bin\Debug\OpenTK.exe.config
+C:\Users\Ivars\projects\OpenTK\OpenTK\bin\Debug\OpenTK.exe
+C:\Users\Ivars\projects\OpenTK\OpenTK\bin\Debug\OpenTK.pdb
+C:\Users\Ivars\projects\OpenTK\OpenTK\bin\Debug\OpenTK.dll
+C:\Users\Ivars\projects\OpenTK\OpenTK\bin\Debug\OpenTK.xml
+C:\Users\Ivars\projects\OpenTK\OpenTK\obj\Debug\OpenTK.exe
+C:\Users\Ivars\projects\OpenTK\OpenTK\obj\Debug\OpenTK.pdb
+C:\Users\Ivars\projects\OpenTK\OpenTK\bin\Debug\Content\tiles.jpg
+C:\Users\Ivars\projects\OpenTK\OpenTK\obj\Debug\OpenTK.csprojResolveAssemblyReference.cache

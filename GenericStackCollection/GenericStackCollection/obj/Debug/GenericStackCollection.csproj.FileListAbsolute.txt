@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\GenericStackCollection\GenericStackCollection\bin\Debug\GenericStackCollection.exe.config
+C:\Users\Ivars\projects\GenericStackCollection\GenericStackCollection\bin\Debug\GenericStackCollection.exe
+C:\Users\Ivars\projects\GenericStackCollection\GenericStackCollection\bin\Debug\GenericStackCollection.pdb
+C:\Users\Ivars\projects\GenericStackCollection\GenericStackCollection\obj\Debug\GenericStackCollection.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\GenericStackCollection\GenericStackCollection\obj\Debug\GenericStackCollection.exe
+C:\Users\Ivars\projects\GenericStackCollection\GenericStackCollection\obj\Debug\GenericStackCollection.pdb

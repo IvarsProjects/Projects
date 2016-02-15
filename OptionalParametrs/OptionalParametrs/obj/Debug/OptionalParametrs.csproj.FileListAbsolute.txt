@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\OptionalParametrs\OptionalParametrs\bin\Debug\OptionalParametrs.exe.config
+C:\Users\Ivars\projects\OptionalParametrs\OptionalParametrs\bin\Debug\OptionalParametrs.exe
+C:\Users\Ivars\projects\OptionalParametrs\OptionalParametrs\bin\Debug\OptionalParametrs.pdb
+C:\Users\Ivars\projects\OptionalParametrs\OptionalParametrs\obj\Debug\OptionalParametrs.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\OptionalParametrs\OptionalParametrs\obj\Debug\OptionalParametrs.exe
+C:\Users\Ivars\projects\OptionalParametrs\OptionalParametrs\obj\Debug\OptionalParametrs.pdb

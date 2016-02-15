@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\CompareType\CompareType\bin\Debug\CompareType.exe.config
+C:\Users\Ivars\projects\CompareType\CompareType\bin\Debug\CompareType.exe
+C:\Users\Ivars\projects\CompareType\CompareType\bin\Debug\CompareType.pdb
+C:\Users\Ivars\projects\CompareType\CompareType\obj\Debug\CompareType.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\CompareType\CompareType\obj\Debug\CompareType.exe
+C:\Users\Ivars\projects\CompareType\CompareType\obj\Debug\CompareType.pdb

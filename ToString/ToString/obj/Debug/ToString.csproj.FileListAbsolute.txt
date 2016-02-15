@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\ToString\ToString\bin\Debug\ToString.exe.config
+C:\Users\Ivars\projects\ToString\ToString\bin\Debug\ToString.exe
+C:\Users\Ivars\projects\ToString\ToString\bin\Debug\ToString.pdb
+C:\Users\Ivars\projects\ToString\ToString\obj\Debug\ToString.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\ToString\ToString\obj\Debug\ToString.exe
+C:\Users\Ivars\projects\ToString\ToString\obj\Debug\ToString.pdb

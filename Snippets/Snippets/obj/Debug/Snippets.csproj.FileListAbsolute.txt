@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\Snippets\Snippets\bin\Debug\Snippets.exe.config
+C:\Users\Ivars\projects\Snippets\Snippets\obj\Debug\Snippets.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\Snippets\Snippets\bin\Debug\Snippets.exe
+C:\Users\Ivars\projects\Snippets\Snippets\bin\Debug\Snippets.pdb
+C:\Users\Ivars\projects\Snippets\Snippets\obj\Debug\Snippets.exe
+C:\Users\Ivars\projects\Snippets\Snippets\obj\Debug\Snippets.pdb

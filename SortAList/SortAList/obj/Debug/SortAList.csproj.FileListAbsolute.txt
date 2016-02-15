@@ -1,0 +1,12 @@
+C:\Users\Ivars\Desktop\SortAList\SortAList\bin\Debug\SortAList.exe.config
+C:\Users\Ivars\Desktop\SortAList\SortAList\obj\Debug\SortAList.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\Desktop\SortAList\SortAList\bin\Debug\SortAList.exe
+C:\Users\Ivars\Desktop\SortAList\SortAList\bin\Debug\SortAList.pdb
+C:\Users\Ivars\Desktop\SortAList\SortAList\obj\Debug\SortAList.exe
+C:\Users\Ivars\Desktop\SortAList\SortAList\obj\Debug\SortAList.pdb
+C:\Users\Ivars\projects\SortAList\SortAList\bin\Debug\SortAList.exe.config
+C:\Users\Ivars\projects\SortAList\SortAList\obj\Debug\SortAList.exe
+C:\Users\Ivars\projects\SortAList\SortAList\obj\Debug\SortAList.pdb
+C:\Users\Ivars\projects\SortAList\SortAList\bin\Debug\SortAList.exe
+C:\Users\Ivars\projects\SortAList\SortAList\bin\Debug\SortAList.pdb
+C:\Users\Ivars\projects\SortAList\SortAList\obj\Debug\SortAList.csprojResolveAssemblyReference.cache

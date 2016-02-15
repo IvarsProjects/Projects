@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\GenericQueue\GenericQueue\bin\Debug\GenericQueue.exe.config
+C:\Users\Ivars\projects\GenericQueue\GenericQueue\bin\Debug\GenericQueue.exe
+C:\Users\Ivars\projects\GenericQueue\GenericQueue\bin\Debug\GenericQueue.pdb
+C:\Users\Ivars\projects\GenericQueue\GenericQueue\obj\Debug\GenericQueue.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\GenericQueue\GenericQueue\obj\Debug\GenericQueue.exe
+C:\Users\Ivars\projects\GenericQueue\GenericQueue\obj\Debug\GenericQueue.pdb

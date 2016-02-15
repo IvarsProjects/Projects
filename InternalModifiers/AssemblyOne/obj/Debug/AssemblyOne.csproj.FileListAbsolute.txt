@@ -1,0 +1,4 @@
+C:\Users\Ivars\projects\InternalModifiers\AssemblyOne\bin\Debug\AssemblyOne.dll
+C:\Users\Ivars\projects\InternalModifiers\AssemblyOne\bin\Debug\AssemblyOne.pdb
+C:\Users\Ivars\projects\InternalModifiers\AssemblyOne\obj\Debug\AssemblyOne.dll
+C:\Users\Ivars\projects\InternalModifiers\AssemblyOne\obj\Debug\AssemblyOne.pdb

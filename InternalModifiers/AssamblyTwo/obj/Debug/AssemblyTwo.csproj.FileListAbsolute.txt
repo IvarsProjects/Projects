@@ -1,0 +1,7 @@
+C:\Users\Ivars\projects\InternalModifiers\AssamblyTwo\bin\Debug\AssamblyTwo.dll
+C:\Users\Ivars\projects\InternalModifiers\AssamblyTwo\bin\Debug\AssamblyTwo.pdb
+C:\Users\Ivars\projects\InternalModifiers\AssamblyTwo\obj\Debug\AssemblyTwo.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\InternalModifiers\AssamblyTwo\obj\Debug\AssamblyTwo.dll
+C:\Users\Ivars\projects\InternalModifiers\AssamblyTwo\obj\Debug\AssamblyTwo.pdb
+C:\Users\Ivars\projects\InternalModifiers\AssamblyTwo\bin\Debug\AssemblyOne.dll
+C:\Users\Ivars\projects\InternalModifiers\AssamblyTwo\bin\Debug\AssemblyOne.pdb

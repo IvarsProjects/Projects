@@ -1,0 +1,6 @@
+C:\Users\Ivars\projects\PartialMethods\PartialMethods\bin\Debug\PartialMethods.exe.config
+C:\Users\Ivars\projects\PartialMethods\PartialMethods\bin\Debug\PartialMethods.exe
+C:\Users\Ivars\projects\PartialMethods\PartialMethods\bin\Debug\PartialMethods.pdb
+C:\Users\Ivars\projects\PartialMethods\PartialMethods\obj\Debug\PartialMethods.csprojResolveAssemblyReference.cache
+C:\Users\Ivars\projects\PartialMethods\PartialMethods\obj\Debug\PartialMethods.exe
+C:\Users\Ivars\projects\PartialMethods\PartialMethods\obj\Debug\PartialMethods.pdb
